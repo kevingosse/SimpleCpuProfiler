@@ -1,2 +1,2 @@
-# SimpleCpuProfiler
-Proof-of-concept of a simple CPU profiler written in C#
+﻿# SimpleCpuProfiler
+Proof-of-concept of a simple CPU profiler written in C#. Sample code for the article [Writing a .NET profiler in C#  -  Part 5](https://minidump.net/writing-a-net-profiler-in-c-part-5).
